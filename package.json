@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/hannoeru/formik-effech-schema/issues"
   },
-  "keywords": ["effect", "formik", "adapter", "schema", "validation", "form"],
+  "keywords": ["effect", "formik", "adapter", "schema", "validation", "form", "react"],
   "sideEffects": false,
   "exports": {
     ".": {
