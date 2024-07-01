@@ -1,6 +1,6 @@
-# [name]
+# formik-effech-schema
 
-[![NPM version](https://img.shields.io/npm/v/[name]?color=a1b858&label=)](https://www.npmjs.com/package/[name])
+[![NPM version](https://img.shields.io/npm/v/formik-effech-schema?color=a1b858&label=)](https://www.npmjs.com/package/formik-effech-schema)
 
 ## License
 
