@@ -1,6 +1,6 @@
 # formik-effect-schema
 
-[![NPM version](https://img.shields.io/npm/v/formik-effech-schema?color=a1b858&label=)](https://www.npmjs.com/package/formik-effech-schema)
+[![NPM version](https://img.shields.io/npm/v/formik-effect-schema?color=a1b858&label=)](https://www.npmjs.com/package/formik-effect-schema)
 
 This library adapts a [@effect/schema](https://github.com/Effect-TS/effect/tree/main/packages/schema) schema to work as a `validationSchema` prop or `validate` prop on [Formik](https://formik.org/)
 
