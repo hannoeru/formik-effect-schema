@@ -9,11 +9,11 @@ importers:
   .:
     dependencies:
       '@effect/schema':
-        specifier: ^0.70.1
-        version: 0.70.1(effect@3.6.0)
+        specifier: ^0.70.2
+        version: 0.70.2(effect@3.6.1)
       effect:
-        specifier: ^3.6.0
-        version: 3.6.0
+        specifier: ^3.6.1
+        version: 3.6.1
     devDependencies:
       '@antfu/eslint-config':
         specifier: ^2.24.1
@@ -47,8 +47,8 @@ importers:
         version: 18.3.1(react@18.3.1)
     devDependencies:
       '@effect/schema':
-        specifier: ^0.70.1
-        version: 0.70.1(effect@3.6.0)
+        specifier: ^0.70.2
+        version: 0.70.2(effect@3.6.1)
       '@types/react':
         specifier: ^18.3.3
         version: 18.3.3
@@ -209,10 +209,10 @@ packages:
     bundledDependencies:
       - is-unicode-supported
 
-  '@effect/schema@0.70.1':
-    resolution: {integrity: sha512-pxHAmOxWXUs7ZcHBTJUHcMg3ici65bOepxWV7cs//ujv1n9cLQJDQE8phUIzbxtROPcEbZwukGgJy7/HlBjx+w==}
+  '@effect/schema@0.70.2':
+    resolution: {integrity: sha512-uZcUtgnmmzqpMikFr4FBmVX0didYBp33UhpYZrIvlW5/fiENsnrGas3DOanqxXPgP6mnwx9q/kv6912Ix+NjSw==}
     peerDependencies:
-      effect: ^3.6.0
+      effect: ^3.6.1
 
   '@es-joy/jsdoccomment@0.43.1':
     resolution: {integrity: sha512-I238eDtOolvCuvtxrnqtlBaw0BwdQuYqK7eA6XIonicMdOOOb75mqdIzkGDUbS04+1Di007rgm9snFRNeVrOog==}
@@ -1437,8 +1437,8 @@ packages:
     resolution: {integrity: sha512-ZmdL2rui+eB2YwhsWzjInR8LldtZHGDoQ1ugH85ppHKwpUHL7j7rN0Ti9NCnGiQbhaZ11FpR+7ao1dNsmduNUg==}
     engines: {node: '>=12'}
 
-  effect@3.6.0:
-    resolution: {integrity: sha512-7bUV/Ytt058F3YWZJyra63MGA80msTk4AnFiVlvCM65RN7afc3LsvLOHpMifLqX/8CG0eDlJLg2lDLByyEnYGQ==}
+  effect@3.6.1:
+    resolution: {integrity: sha512-RdHsRMuEUKgkhs3z2d5XI5SDADX0THDx6GjP1oJAAAM/w+oT5/3BpKZyg/05VHy7YfOUdaQbcDzFO6YowkqsSQ==}
 
   electron-to-chromium@1.5.2:
     resolution: {integrity: sha512-kc4r3U3V3WLaaZqThjYz/Y6z8tJe+7K0bbjUVo3i+LWIypVdMx5nXCkwRe6SWbY6ILqLdc1rKcKmr3HoH7wjSQ==}
@@ -3118,9 +3118,9 @@ snapshots:
       picocolors: 1.0.1
       sisteransi: 1.0.5
 
-  '@effect/schema@0.70.1(effect@3.6.0)':
+  '@effect/schema@0.70.2(effect@3.6.1)':
     dependencies:
-      effect: 3.6.0
+      effect: 3.6.1
       fast-check: 3.20.0
 
   '@es-joy/jsdoccomment@0.43.1':
@@ -4190,7 +4190,7 @@ snapshots:
 
   dotenv@16.4.5: {}
 
-  effect@3.6.0: {}
+  effect@3.6.1: {}
 
   electron-to-chromium@1.5.2: {}
 
