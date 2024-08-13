@@ -48,12 +48,12 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@effect/schema": "^0.70.3",
-    "effect": "^3.6.2"
+    "@effect/schema": "^0.70.4",
+    "effect": "^3.6.3"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.25.0",
-    "bumpp": "^9.4.2",
+    "@antfu/eslint-config": "^2.25.1",
+    "bumpp": "^9.5.1",
     "eslint": "^9.9.0",
     "typescript": "^5.5.4",
     "unbuild": "^2.0.0",
