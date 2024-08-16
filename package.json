@@ -2,7 +2,7 @@
   "name": "formik-effect-schema",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "pnpm@9.7.0",
+  "packageManager": "pnpm@9.7.1",
   "description": "",
   "author": "hannoeru <me@hanlee.co>",
   "license": "MIT",
@@ -48,11 +48,11 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@effect/schema": "^0.70.4",
-    "effect": "^3.6.3"
+    "@effect/schema": "^0.71.0",
+    "effect": "^3.6.4"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.25.1",
+    "@antfu/eslint-config": "^2.26.0",
     "bumpp": "^9.5.1",
     "eslint": "^9.9.0",
     "typescript": "^5.5.4",
